@@ -40,7 +40,7 @@
 ## 📄 License & Terms
 OmniSave is a free-to-use utility. We do not store user data, cache media, or track your activity. 
 
-For inquiries or support, contact the CEO via **WhatsApp: [+234 904 910 6640](https://wa.me)**.
+For inquiries or support, contact the CEO via *telegram*: [@Tg_monie](https://t.me)**.
 
 ---
 *OmniSave is an independent project and is not affiliated with Bluesky Social or WhatsApp Inc.*
